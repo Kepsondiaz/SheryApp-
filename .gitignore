@@ -17,3 +17,7 @@ yarn-error.log
 /.idea
 /.vscode
 /.history
+/routes/api.php
+/routes/channels.php
+/routes/console.php
+
